@@ -1,10 +1,6 @@
 ﻿//THIS TRADING BOT IS BASED ON René Balke MQL5 TURTOTIAL
 //https://www.youtube.com/watch?v=nlj9gUuf7Wg&list=LL&index=3
 
-#property copyright "Copyright 2024, Tsantekidis Giorgos"
-#property link      "https://users.iee.ihu.gr/~giortsan/Personal%20Website/HomePage/"
-#property version   "1.00"
-
 #include <trade/trade.mqh> 
 
 input ENUM_TIMEFRAMES Timeframe = PERIOD_H1;
